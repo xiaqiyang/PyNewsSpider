@@ -6,7 +6,7 @@
 
 作者：jasonren0403
 ———————————————————————————————————————————————————————————
-news_hotspot_crawler
+# news_hotspot_crawler
 基于scrapy的国内各大新闻网站内容爬虫  
 入口文件还未编写，请进入hotspot_crawler文件夹中，运行  
 ```scrapy crawl 爬虫名```  
