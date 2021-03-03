@@ -4,7 +4,9 @@
 机器学习代码来源网络，scrapy爬虫代码学习自网上，仅作个人学习使用。
 以下是原版说明：
 
-# news_hotspot_crawler
+作者：jasonren0403
+———————————————————————————————————————————————————————————
+news_hotspot_crawler
 基于scrapy的国内各大新闻网站内容爬虫  
 入口文件还未编写，请进入hotspot_crawler文件夹中，运行  
 ```scrapy crawl 爬虫名```  
